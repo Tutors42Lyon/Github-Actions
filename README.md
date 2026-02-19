@@ -7,7 +7,7 @@ Automatisez vos tests, vérifications et déploiements directement depuis vos d�
 ## 📚 Présentation
 
 Retrouvez les supports de l’atelier ici :  
-👉 [Google Slides – Atelier GitHub Actions](https://github.com/Tutors42Lyon/Github-Actions/blob/main/github-actions.pdf)
+👉 [Présentation – Atelier GitHub Actions](https://github.com/Tutors42Lyon/Github-Actions/blob/main/github-actions.pdf)
 
 ---
 
